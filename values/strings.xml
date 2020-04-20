@@ -1,0 +1,477 @@
+<resources>
+    <string name="app_name">Fliplearn</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- Strings related to login -->
+    <string name="error_invalid_email">Please enter a valid email address</string>
+    <string name="error_blank_email">Email address cannot be blank</string>
+    <string name="error_blank_password">Password cannot be blank</string>
+    <string name="error_minimum_login_id_length">Login ID should be atleast 6 characters</string>
+    <string name="error_max_login_id_length">Login ID should be less than 50 characters</string>
+    <string name="error_loginId_space_not_allowed">Spaces are not allowed in Login ID</string>
+    <string name="login_id_empty">Login ID cannot be empty</string>
+    <string name="error_admission_required"> Admission number cannot be blank</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="gallery_title">Album</string>
+
+    <string name="forgot_txt">Forgot your Password</string>
+
+    <string name="heading_txt">Enter your Login ID below to receive your \npassword reset instructions.</string>
+
+    <string name="title_activity_terms_conditions">TermsConditionsActivity</string>
+
+    <string name="termsheading_txt">Terms and Conditions</string>
+    <string name="create_gallery_title">Create Album</string>
+    <!--<string name="toast_data_not_available">data not available</string>-->
+
+
+    <!--
+    Forgot user ID
+    -->
+    <string name="select_txt">Select your Login ID</string>
+    <!--
+       SignUp
+       -->
+    <string name="error_invalid_mobile_number">This mobile number is invalid</string>
+    <string name="title_activity_login_details">Login Details</string>
+
+    <string name="progressdialog_msg">Please wait...</string>
+    <string name="title_activity_view_profile">ActivityViewProfile</string>
+    <string name="network_error">Please Try Again Seems Network Failed</string>
+    <string name="error_blank_mobile_number">Mobile number cannot be blank</string>
+    <string name="splash_txt">Personalised Smart Learning</string>
+
+    <string name="validation_user_id">Login ID can not be blank</string>
+    <string name="validation_mobile_number">Mobile Number cannot be blank</string>
+    <string name="error_title_blank">Title cannot be blank</string>
+    <string name="error_add_share_with_blank">Please select atleast one recipient</string>
+    <string name="password_reset">Password reset Successfully</string>
+
+    <string name="validation_email">Email cannot be blank</string>
+    <string name="list_empty_text">No Items to Display!</string>
+
+    <string name="monthly">Monthly</string>
+    <string name="quarterly">Quarterly</string>
+    <string name="halfyearly">Half-yearly</string>
+    <string name="yearly">Yearly</string>
+
+    <string-array name="payfor_array">
+        <item>@string/monthly</item>
+        <item>@string/quarterly</item>
+        <item>@string/halfyearly</item>
+        <item>@string/yearly</item>
+    </string-array>
+
+
+    <string name="ptr_pull_to_refresh">Pull to refresh</string>
+    <string name="ptr_release_to_refresh">Release to refresh</string>
+    <string name="ptr_refreshing">Refreshing…</string>
+    <string name="ptr_last_updated">Updated: %1$s</string>
+
+    <string name="title_activity_subject_books">SubjectBooksActivity</string>
+    <string name="spinner_hint">Payment Option</string>
+    <!--
+   Chat
+   -->
+    <string name="action_exit">Exit</string>
+
+    <string name="some_problem_occured">Some Problem occurred. Please try again later.</string>
+    <string name="validation_credit_card">Select Credit Card as a payment Mode</string>
+    <string name="validation_payment_mode">Select one Payment Mode</string>
+    <string name="validation_from_credit_card">Select one Payment Mode from Credit Card</string>
+
+    <string name="payment_success">Payment Successful</string>
+    <string name="payment_failure">Payment Failure</string>
+    <string name="payment_cancel">Payment Cancelled</string>
+    <string name="payment_method">Payment Method</string>
+    <string name="no_data_found">No Data Found</string>
+    <string name="create_announcement_title">Create Announcement</string>
+    <string name="create_homework_title">Create Homework</string>
+    <string name="edit_homework_title">Edit Homework</string>
+    <string name="announcement_detail">Announcement Detail</string>
+    <string name="announcement_title">Announcement</string>
+    <string name="homework_detail">Homework Detail</string>
+    <string name="guru">Fliplearn Guru</string>
+
+    <string name="like_text">Like</string>
+    <string name="liked_text">Liked</string>
+    <string name="homework_title">Homework</string>
+    <string name="fliplearn_title">Fliplearn</string>
+    <string name="my_wall">My Wall</string>
+    <string name="category_text">Category</string>
+    <string name="posted_by_text">Posted By</string>
+    <string name="posted_by_me_text">Posted by Me</string>
+    <string name="posted_by_others_text">Posted by Others</string>
+    <string name="apply_filters_text">Apply Filters</string>
+
+    <string name="delivery_available">Delivery available at given pin code</string>
+    <string name="delivery_unavailable">Unfortunately, we do not ship at your pin code</string>
+    <string name="enter_valid_pincode">Please enter valid pin code</string>
+    <string name="item_removed_from_cart">Item Removed Successfully</string>
+    <string name="choose_address_title">Choose Address</string>
+    <string name="my_orders_title">My Orders</string>
+    <string name="logout_title">Logout</string>
+    <string name="cache_title">Clear Cache</string>
+    <string name="are_you_sure_logout">Are you sure you want to logout?</string>
+    <string name="success_delete">Your post has been deleted successfully</string>
+    <string name="filter_title">Filter</string>
+    <string name="order_num">Order no: %1s</string>
+    <string name="paid_on">Paid On: %1s</string>
+    <string name="amount_rs">Amount: Rs %1s</string>
+    <string name="inr">\u20B9 %.2f</string>
+    <string name="inr_">\u20B9</string>
+    <string name="per_session_price"> ( \u20B9 %.2f Per session ) </string>
+    <string name="edit_album_title">Edit Album</string>
+    <string name="fliplearn_sku_code">SKU: %1s</string>
+    <string name="album_created">Album Created Successfully</string>
+    <string name="album_updated">Album Updated Successfully</string>
+    <string name="phone">Phone: %1s</string>
+    <string name="select_one_category">Select atleast one category</string>
+    <!--<string name="app_name">Uniclass</string>-->
+    <string name="help_title">uniclass - Help</string>
+    <!-- Common Top Navigation bar -->
+    <string name="navigation_search">Type Search Keywords Here</string>
+    <string name="navigation_favorite">Favorites</string>
+    <string name="navigation_notes">Notes</string>
+    <string name="navigation_help">Help</string>
+    <string name="navigation_home">Home</string>
+
+    <!-- Resources List Activity -->
+    <string name="res_list_videos">Animations</string>
+    <string name="res_list_weblink">Weblinks</string>
+    <string name="res_list_mcq">MCQs</string>
+    <string name="res_list_synopsis">Synopsis</string>
+
+    <!-- Common Resources Activity -->
+    <string name="res_weblink">Weblinks</string>
+    <string name="res_mcq">MCQs</string>
+    <string name="res_synopsis">Synopsis:</string>
+
+    <!-- common_resource_toolbar -->
+    <string name="res_disclaimer">Disclaimer</string>
+
+    <!-- Home Activity -->
+
+    <!-- Disclaimer Dialog -->
+    <string name="disclaimer_ok">OK</string>
+    <string name="disclaimer_title">Disclaimer</string>
+    <string name="disclaimer_message">Educomp DISCLAIMS any right whatsoever in the extract/material/resource as used herein above and the same is reproduced solely and strictly for reference purpose only and all the intellectual property rights are with the original author. This educational content is recommendatory and hence we disclaim the authority / correctness of such educational content. We further disclaim any copyright or any other intellectual property infringement of the original author. We shall not be liable for any liability as the case may be. Such reference is purely for non commercial purpose and does not constitute or imply endorsement, recommendation or favoring by or on behalf of Educomp.</string>
+
+    <!-- Begin MCQ Activity -->
+    <string name="intruction_second">You can check the correct answer to each question by clicking the &lt;b>Check Answer&lt;/b> button on that page.</string>
+    <string name="intruction_fourth">Once you finish the entire test, you can view the &lt;b>Answer Sheet&lt;/b>.</string>
+
+    <!-- For empty views -->
+    <string name="favorite_empty">No favorites found.</string>
+    <string name="notes_empty">No notes found.</string>
+    <string name="resource_empty">No resources found.</string>
+    <string name="chapter_empty">No chapters to show.</string>
+
+    <!-- List Dialog (Favorites/Notes) -->
+    <string name="list_dialog_view_all">View All</string>
+    <string name="list_dialog_add_new">Add New</string>
+
+    <!-- Toast messages - common -->
+    <string name="toast_data_not_available">Requested data is not available. Please try again. If the problem persists, please contact Educomp Support.</string>
+    <string name="toast_enter_text_to_search">Please enter some text to search.</string>
+    <string name="toast_please_try_again">Please try again.</string>
+    <string name="toast_test_loading">Please wait while the test is loading&#8230;</string>
+
+    <!-- Toast messages - Video-player -->
+    <string name="toast_muted_by_hardware_btn">The audio on your tablet seems to be muted. Please unmute it to enable volume-bar.</string>
+    <string name="toast_volume_bar_enabled">Volume-bar is enabled now.</string>
+
+    <!-- Toast messages - Favorites -->
+    <string name="toast_added_to_favorites">Added to favorites.</string>
+    <string name="toast_already_in_favorites">Already added to favorites.</string>
+    <string name="toast_removed_from_favorites">Removed from favorites.</string>
+
+    <!-- Toast messages - Notes -->
+    <string name="toast_enter_note_to_save">Notes cannot be empty. Please add some text.</string>
+    <string name="toast_no_change_to_save">No changes found to save.</string>
+    <string name="toast_changes_not_saved">Your changes have not been saved.</string>
+    <string name="toast_note_saved">The note has been saved.</string>
+    <string name="toast_note_deleted">The note has been deleted.</string>
+
+    <!-- Dialog -->
+    <string name="dialog_save_confirm_msg">Do you want to save changes?</string>
+    <string name="dialog_yes_button">Yes</string>
+    <string name="dialog_no_button">No</string>
+    <string name="dialog_ok_button">OK</string>
+
+    <!-- Search List Activity -->
+    <string name="search_list_search_button_tag">Search</string>
+    <string name="search_list_adv_search_tag">Advanced Search</string>
+    <string name="search_list_search_text_tag">Search Text</string>
+    <string name="search_list_book_tag">Book</string>
+    <string name="search_list_topic_tag">Topic</string>
+    <string name="search_list_chapter_tag">Chapter</string>
+    <string name="search_list_hide_opt_tag">Hide Options</string>
+    <string name="search_list_more_opt_tag">More Options</string>
+    <string name="results_found">results found.</string>
+    <string name="result_found">result found.</string>
+
+    <!-- To be used for instantiation of com.aujas.security.impl classes -->
+
+    <!-- To be used for instantiation of com.aujas.security.impl classes -->
+
+    <!-- General Labels -->
+    <string name="menu_settings">Settings</string>
+
+    <string name="msg_activation">This tablet has not been activated. Please activate to access all the available content.</string>
+
+    <string name="msg_book_icon">Book</string>
+
+    <string name="package_activation">com.educomp.gentabletkey</string>
+
+    <!--  Lesson Plan headdings  -->
+    <string name="lesson_plan_heading1">Concept Explanation</string>
+    <string name="lessonplan_view">LESSON PLAN VIEW </string>
+    <string name="classic_view">CLASSIC VIEW </string>
+    <string name="spinner_title">Language Name </string>
+    <string name="loading_data">Loading Data&#8230;</string>
+    <string name="update_address">Update Address</string>
+    <string name="samrtclass_pro_title">Smartclass Pro</string>
+    <string name="not_subj_teacher">You are not authorised to post homework</string>
+    <string name="homework_created">Homework Created Successfully</string>
+    <string name="homework_updated">Homework Updated Successfully</string>
+    <string name="wait_for_uploading">Please wait uploading file is in progress</string>
+    <string name="subject_blank">Subject cannot be blank</string>
+    <string name="book_store_title">Book Store</string>
+    <string name="edit_announcement_title">Edit Announcement</string>
+    <string name="announcement_created">Announcement created successfully</string>
+    <string name="announcement_updated">Announcement updated successfully</string>
+    <string name="atleast_one_attachment">Please select atleast one attachment</string>
+    <string name="mark_attendance_title">Mark Today\'s Attendance</string>
+    <string name="mark_attendance_description">Take class attendance and send SMS for absentees</string>
+    <string name="viewprevious_attendance_title">View Previous Attendance</string>
+    <string name="viewprevious_attendance_description">View and edit attendance for previous dates</string>
+    <string name="student_view_attendance_title">\'s Attendance</string>
+    <string name="student_view_attendance_description">View student attendance</string>
+
+
+    <string name="album_detail">Album Detail</string>
+    <string name="text_detail">Details</string>
+    <string name="already_item_selected">Already %1s items selected</string>
+    <string name="done">Done</string>
+    <string name="select_min_count">Select minimum %1d items</string>
+    <string name="student_wise">Student wise</string>
+    <string name="date_wise">Date wise</string>
+    <string name="error_select_state">Please select state</string>
+    <string name="select_submission_date">Select Submission date</string>
+
+    <string name="select_school">Please select school</string>
+    <string name="select_class">Please select class</string>
+    <string name="select_guru_product">Please select product</string>
+    <string name="select_guru_duration">Please select duration</string>
+    <string name="select_board">Please select board</string>
+    <string name="select_section">Please select section</string>
+    <string name="transport_amount">Do you want to pay Transportation Fee?</string>
+    <string name="validation_transport_amount">Transportation fee cannot be blank</string>
+    <string name="homework_due_date">Submit by %1s</string>
+    <string name="post_delete_message">This will delete your complete post.\nDo you agree?</string>
+    <string name="not_editable_delete">You cannot edit this as the users/sections you have shared this post with have been deleted.\nDo you want to delete?</string>
+    <string name="get_permissions_from_settings">You don\'t have permissions. Please allow from settings.</string>
+    <string name="shared_with_text">Shared With</string>
+    <string name="shared_with_me">Shared with me</string>
+    <string name="all_posts">All Posts</string>
+    <string name="read_permission_request">We don\'t have permission to read your SD card. Please allow it from settings.</string>
+    <string name="password_same_as_login_id_error">Password can\'t be the same as Login Id</string>
+    <string name="alphabets_digits">abcdefghijklmnopqrstuvwxyz ABCDEFGHIJKLMNOPQRSTUVWXYZ</string>
+    <string name="alpha_numeric_hiphen">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789-</string>
+    <string name="password_contains_space__error">Password should not contain any spaces</string>
+    <string name="learn_heading">Test And Improve Your Learning</string>
+    <string name="learn_text">Play our Curriculum mapped quiz games</string>
+    <string name="learn_title">Learn</string>
+    <string name="forgot_user_id"><u>Login ID</u></string>
+    <string name="we_need_verify_mobile">Enter your 10 digit Mobile Number </string>
+    <string name="enter_mobile_number">Enter Mobile Number</string>
+    <string name="enter_otp">Enter OTP</string>
+    <string name="resend">Resend</string>
+    <string name="you_are_now_a_part_of">You are now a part of</string>
+    <string name="your_parent_can_link_to_your_acc">Your parents will need this code to link to your account</string>
+    <string name="do_not_have_gardian_code">Don\'t have guardian code,</string>
+    <string name="your_child_to_get_it">your child to get it</string>
+    <string name="error_message_school_code">Please Enter School Code</string>
+    <string name="subscription_txt">Fliplearn Subscription</string>
+    <string name="tutor_subscription_txt">Tutor Subscription</string>
+    <string name="vmc_subscription_txt">VMC Subscription</string>
+    <string name="add_to_cart_success">Successfully added to cart</string>
+
+    <string name="title_verify_mobile_number">Mobile Number</string>
+    <string name="title_confirm_your_school">Confirm Your School</string>
+    <string name="title_create_account">Create Your Account</string>
+    <string name="title_choose_class_n_section">Choose Class and Section</string>
+    <string name="title_congratulations">Congratulations</string>
+    <string name="error_blank_guardian_code">Guardian code cannot be blank</string>
+    <string name="title_activity_invite_others">InviteOthersActivity</string>
+    <string name="title_activity_user_profile">UserProfileActivity</string>
+
+    <!--<Base Profile  blank message-->
+    <string name="error_message_base_profile">Base profile can not be blank !</string>
+    <string name="update_contact_title">Update Contact Details</string>
+    <string name="first_name_empty">First name can\'t be empty</string>
+    <string name="last_name_empty">Last name can\'t be empty</string>
+    <string name="address_empty">Address can\'t be empty</string>
+    <string name="state_empty">State can\'t be empty</string>
+    <string name="city_empty">City can\'t be empty</string>
+    <string name="pincode_empty">Pincode can\'t be empty</string>
+    <string name="pincode_invalid">Please enter valid Pincode</string>
+    <string name="email_empty">Email can\'t be empty</string>
+    <string name="email_invallid">Please enter valid email</string>
+    <string name="mobile_empty">Mobile number can\'t be empty</string>
+    <string name="mobile_invalid">Please enter valid number</string>
+    <string name="payment_mode_validation">Select a payment mode</string>
+    <string name="select_ccoption">Select a payment mode from credit card</string>
+    <string name="select_school_withclass">Select School having Classes</string>
+    <string name="select_class_withsection">Select Class having Sections</string>
+    <string name="student_name_validation">Please enter Student Name</string>
+    <string name="parent_name_validation">Please enter Parent Name</string>
+    <string name="transportation_fee_validation">Select if you want to pay transportation fee</string>
+    <string name="fee_amount_validation">Enter either Transport fee or Fee Amount</string>
+    <string name="title_switch_account">Switch Account</string>
+    <string name="title_my_orders">My Orders</string>
+    <string name="title_smart_class_pro">Smart Class Pro</string>
+    <string name="title_book_store">Book Store</string>
+    <string name="title_attendance">Attendance</string>
+    <string name="title_fee_payment">Fee Payment</string>
+    <string name="title_quiz_games">Quiz Games</string>
+    <string name="title_contact_us">Contact Us</string>
+    <string name="title_invite">Invite Others</string>
+    <string name="title_link_parent">Link Your Child</string>
+    <string name="title_settings">Settings</string>
+    <string name="title_content_learn">Explore Content</string>
+    <string name="title_tutor">Tutor Help</string>
+    <string name="tutor_session">Tutor Session</string>
+    <string name="proceed_to_pay">Pay %1s</string>
+    <string name="proceed_pay">Proceed To Pay</string>
+    <string name="select_class_title">Select Class</string>
+    <string name="link_student_for_subscriptions">You need to link your account with a student\'s account. Please link your child\'s account to buy a subscription</string>
+    <string name="select_school_title">Select School</string>
+    <string name="parent_detail_title">Parent Details</string>
+    <string name="confirm_fee_title">Confirm Details</string>
+    <string name="add_account_title">You are currently associated with</string>
+    <string name="need_school_code">You will need school code to add another account</string>
+    <string name="acount_of_mobile">This mobile number already exists with following account(s) on Fliplearn</string>
+
+    <string name="forgot_password"><u>Password?</u></string>
+    <string name="album_video_limit">Limit exceeded for video upload</string>
+    <string name="title_diagnostics">Diagnostics</string>
+    <string name="title_select_role">Select your Role</string>
+
+    <string name="do_you_have_school_code">Do you have a school code</string>
+    <string name="proceed">Proceed</string>
+    <string name="join_fliplearn">Join Fliplearn</string>
+    <string name="sendotp">Send OTP</string>
+    <string name="join_your_school">Join your School</string>
+    <string name="register_as_guest">Register without school code</string>
+
+    <string name="enter_school_code">Please enter the school code provided by your school</string>
+    <string name="create_account">Use these login credentials for logging into Fliplearn</string>
+    <string name="link_child_heading">You can link to your child\'s account by using the guardian code in the child\'s account</string>
+    <string name="guest_congrats_heading">You are now a part of Fliplearn</string>
+    <string name="guest_txt">You should register as Student, Parent or Teacher to have a better experience of Fliplearn</string>
+    <string name="mobile_number_validity">Mobile Number returned from server is not valid</string>
+    <string name="quiz_title">Test and Improve your learning</string>
+    <string name="quiz_description">Play curriculum mapped quiz games</string>
+    <string name="link_child">Link your child via guardian code</string>
+    <string name="link_your_child">Please link your child to your account using the guardian’s code</string>
+    <string name="child_have_subscription">Student already have Subscription</string>
+    <string name="profile_code_absent">Base Profile Code not received in Push response</string>
+    <string name="register">Register</string>
+    <string name="new_user_msg">New User? - </string>
+    <string name="use_your_phone">Use Your Phone Number </string>
+    <string name="use_your_login">Use Your Login ID/Password  </string>
+    <string name="check_phone_number">Please enter correct phone number </string>
+    <!--<string name="moengage_key">CC8O6NF0Q8AJDWACDNJXAOKY</string>-->
+    <string name="moengage_key">WROU00Y0FM457C681F35A88J</string>
+    <string name="server_id_live">1079958203484</string>
+    <string name="join_String">Every school on Fliplearn has a school code. Get this code from your school to join Fliplearn</string>
+
+    <string name="branch_live_api_key">key_live_hbFHdA54tQw2KS4U7jwwUgllsviMwbwE</string>
+    <string name="branch_test_api_key">key_test_ljEQbt59CTr9PO6H7hEE2pjmryaUsiuK</string>
+    <string name="branch_scheme">fliplearn</string>
+    <string name="property_id">UA-99838190-1</string>
+    <string name="merchant_key">mjpmeu</string>
+    <string name="youtube_key">AIzaSyD4rzxFVPrbnTZNbUAhd5XTPMMas8qknhE"</string>
+
+    <string name="super_admin_message">Access not allowed to this role.</string>
+    <string name="name_empty">Name cannot be empty</string>
+    <string name="name_minimum_lenght">Name should be atleast 3 characters</string>
+    <string name="name_maximum_lenght">Name should be less than 80 characters</string>
+    <string name="password_minimum_length">Password should be atleast 6 characters</string>
+    <string name="password_empty">Password cannot be left empty</string>
+    <string name="new_password_empty">New password cannot be left empty</string>
+    <string name="old_password_empty">Old password cannot be left empty</string>
+    <string name="password_maximum_length">Password should be less than 50 characters</string>
+    <string name="password_not_matched">Passwords do not match. Try Again.</string>
+    <string name="confirm_password_empty">This field cannot be left empty</string>
+    <string name="send_sms_email">Send SMS/Email</string>
+    <string name="send_sms_email_nonApp">Send SMS/Email to users not using the app</string>
+
+    <string-array name="demo_title_array">
+        <item>Your Personalised Learning Space</item>
+        <item>Your Own Path to Learn and Practice Subjects</item>
+        <item>Assessments Designed Just For You</item>
+        <item>Exciting and Engaging Learning Journey</item>
+        <item>Fliplearn Guru - Powered by VMC</item>
+    </string-array>
+
+    <string-array name="demo_desc_array">
+        <item>Your own learning journey with content recommendations and adaptive practice based on your performance</item>
+        <item>Track your progress for each subject and get personalised progress recommendations</item>
+        <item>Adaptive practice tests created and recommended based on your performance</item>
+        <item>Fun and intuitive way to swiftly fly through engaging content</item>
+        <item>Online coaching for IITJEE/NEET/FOUNDATION</item>
+    </string-array>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="total_fee_amount">Total Fee Amount</string>
+    <string name="total_cart_amount">Total Cart Amount</string>
+    <string name="pay_fee">Pay Fee</string>
+    <string name="pay">Pay</string>
+    <string name="select_a_payment_mode">Select Payment Mode</string>
+    <string name="total_amount">Total Amount</string>
+    <string name="pg_charges">PG Charges</string>
+    <string name="base_amount">Base Amount</string>
+    <string name="total_amount_payable">Total Amount Payable</string>
+    <string name="play_quiz">Play Quiz</string>
+    <string name="quiz_dashboard">Quiz Dashboard</string>
+
+
+    <!--<string name="app_name">Fliplearn</string>-->
+    <!--<string name="action_settings">Settings</string>-->
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="Ok">Ok</string>
+    <string name="select_subject">Select Subject</string>
+    <string name="take_more_quizzes_to_reach">Take more quizzes to reach</string>
+    <string name="select_chapter">Select Chapter</string>
+    <string name="dashboard">Dashboard</string>
+    <string name="okay">Okay</string>
+    <string name="notifications">Notifications</string>
+
+    <string name="pending_challenges">Pending Challenges</string>
+    <string name="quiz_dashboard_title">Quiz Dashboard</string>
+    <string name="quiz_dashboard_description">Track progress of your students</string>
+    <string name="challenge">Challenge</string>
+    <string name="take_more_quizzes_to_win">Take more quizzes to win </string>
+    <string name="take_more_quiz">Take more quizzes to win</string>
+    <string name="you_are_master_now">You are a master now</string>
+
+    <string name="subscription_main">You have already subscribed to smartclass content.</string>
+    <string name="subscription_sub">Currently, we don\'t have any other product for you. Check out this space soon for more innovative learning solutions.</string>
+
+    <string name="strike_price"><strike>%1s</strike></string>
+    <string name="confirm_proceed">Confirm &amp; Proceed</string>
+    <string name="confirm_pay">Confirm &amp; Pay</string>
+    <string name="add_address_to_proceed">Add Address to Proceed</string>
+    <string name="enter_coupon_hint">Promotion Code</string>
+    <string name="apply_coupon">Apply</string>
+
+</resources>

@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="violet">#603795</color>
+    <color name="violet_dark">#432668</color>
+    <color name="blue">#148bfe</color>
+    <color name="grey_strip">#f3f3f3</color>
+    <color name="grey_extra_light">#F5F5F5</color>
+    <color name="grey_light">#CCCACA</color>
+    <color name="grey_dark">#8d8d8d</color>
+    <color name="grey">#808080</color>
+    <color name="grey_extra_dark">#414141</color>
+    <color name="light_purple_background">#f8edff</color>
+
+
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_blue">#EE148bfe</color>
+    <color name="light_sky_blue">#87cefa</color>
+    <color name="color_grey">#2a2d30</color>
+    <color name="color_button">#148bfe</color>
+    <color name="blue_edit_text">#2484e6</color>
+    <color name="seprator_color">#A4A4A4</color>
+    <color name="bg_circle_attendance">#CACACA</color>
+    <color name="present">#91CC82</color>
+    <color name="absent">#FA542C</color>
+    <color name="leave">#FFC671</color>
+    <color name="halfday">#F1B62C</color>
+    <color name="holiday">#BD7C5C</color>
+    <color name="cts_lsit_divider_color">#eaeaea</color>
+    <color name="cts_content_title_text_color">#656667</color>
+    <color name="event_view_time_text_color">#f58634</color>
+    <color name="colorAttachBack">#F2F2F2</color>
+    <color name="colorBackground">#FFD1D1D1</color>
+    <!-- Common Navigation bar -->
+    <color name="navigation_options_text_color">#000087</color>
+    <color name="navigation_option_tap_state_bg_color">#c9cae9</color>
+    <color name="fully_transparent">#00000000</color>
+    <color name="white_transparent">#ccffffff</color>
+    <color name="trans">#33ffffff</color>
+    <color name="window_bg">#FAFAFA</color>
+
+
+    <!-- 20% Transparent = 80% Opacity. Alpha = 255*80% = 204 = CC -->
+    <color name="transparent_20">#CC000000</color>
+
+    <!-- 60% Transparent = 40% Opacity. Alpha = 255*40% = 102 = 66 -->
+    <color name="transparent_60">#66000000</color>
+
+    <!-- TOC Activity -->
+    <color name="subject_text_color">#FFFFFFFF</color>
+    <color name="class_text_color">#266b01</color>
+    <color name="chapter_selected_text_color">#040482</color>
+    <color name="chapter_normal_text_color">#FFFFFFFF</color>
+    <color name="title_text_color">#FFFFFFFF</color>
+
+    <!-- Home Activity -->
+
+    <!-- ResourceList Activity -->
+    <color name="res_class_name_text_color">#407432</color>
+    <color name="res_title_name_text_color">#266b01</color>
+    <color name="res_heading_name_text_color">#0000a1</color>
+    <color name="res_chapter_name_text_color">#fbfafa</color>
+    <color name="res_topic_selected_bg_color">#2927ff</color>
+
+    <!-- BeginMcq  Activity -->
+    <color name="instructions_text_color">#000000</color>
+    <color name="begin_btn_bg_color">#0000a1</color>
+
+    <!-- Mcq  Activity -->
+
+    <!-- Disclaimer Dialog -->
+    <color name="disclaimer_title">#00FF00</color>
+    <color name="disclaimer_ok_btn">#FFFFFF</color>
+
+    <!-- CustomDialogFragment -->
+    <color name="multiple_notes_popup_transparency">#30000000</color>
+
+    <!-- Common REsource Toolbar -->
+
+    <!-- Common Resource Header text Color -->
+    <color name="res_header_res_name_text_color">#FFFFFF</color>
+    <color name="res_header_res_title_text_color">#64b450</color>
+    <color name="res_header_breadcrumb_text_color">#bebec9</color>
+
+    <!-- Common Weblink Video Header text Color -->
+
+    <!-- Fav Notes Search Header text Color -->
+    <color name="fav_notes_search_header_bg_color">#000087</color>
+    <color name="fav_notes_search_header_screen_type_text_color">#FFFFFF</color>
+    <color name="fav_notes_search_header_breadcrumb_text_color">#bebec9</color>
+
+    <!-- Color of empty textviews -->
+    <color name="empty_view_text">#000000</color>
+
+    <!-- text color for filters text -->
+    <color name="resource_list_filters_text">#00ff00</color>
+    <color name="resource_type_filter_text_disabled">#28FFFFFF</color>
+
+    <!-- Search Result List text Color -->
+    <color name="adv_search_tag_text_color">#FFFFFF</color>
+    <color name="search_filter_text_color">#FFFFFF</color>
+    <color name="search_filter_list_text_color">#0000a1</color>
+    <color name="bottom_green_bar_text_color">#FFFFFF</color>
+    <color name="search_field_blue_divider_color">#000092</color>
+
+    <!-- Fav and notes pop-up bottom grey background color -->
+    <color name="popup_grey_bg_color">#dddddd</color>
+    <color name="notes_fav_dialog_list_divider">#b3b3b3</color>
+    <color name="notes_fav_dialog_btn_divider">#c2c2c2</color>
+    <color name="res_note_name_text_color">#266b01</color>
+
+    <!-- dialog -->
+    <color name="dialog_header_bg">#000086</color>
+    <color name="dialog_border">#020274</color>
+    <color name="dialog_primary_button_bg">#009900</color>
+    <color name="dialog_secondary_button_bg">#333333</color>
+
+    <!-- Primary Button. Normal=White-Text-On-Green-Bg, Selected=Blue-Text-On-White-Bg -->
+    <color name="primary_btn_normal_bg_color">#009900</color>
+    <color name="primary_btn_selected_bg_color">@android:color/white</color>
+    <color name="primary_btn_normal_text_color">@android:color/white</color>
+    <color name="primary_btn_selected_text_color">#040482</color>
+
+    <!-- video_seekbar_progress_color and volume_seekbar_bg_color are same. -->
+    <color name="video_seekbar_bg_color">@android:color/white</color>
+    <color name="video_seekbar_border_color">#70000090</color>
+    <color name="video_seekbar_progress_color">#5FAC4A</color>
+    <color name="cts_list_item_text_color">#656667</color>
+
+    <color name="filter_button_background_inactive">#f8f8f8</color>
+    <color name="app_base_theme_color_dark">#533379</color>
+    <color name="create_post_color">#ffc61e</color>
+    <color name="tr_gray_lighter">#d8d8d8</color>
+    <color name="button_unselected_bg">#f8f8f8</color>
+
+
+    <color name="app_base_theme_color_light">#eaeaea</color>
+    <color name="red_light">#b01f24</color>
+
+
+    <color name="app_base_text_color_dark">#656667</color>
+
+
+    <color name="play_item_selected">#dfeffa</color>
+    <color name="play_item_bg">#f6f6f6</color>
+
+    <color name="list_row_default_bg">#b8b8b8</color>
+    <color name="list_row_pressed_bg">#008cef</color>
+    <color name="filter_button_backgroud_active">#d1d1d1</color>
+    <color name="color_purple">#533379</color>
+
+    <color name="common_tag_color">#5e5e5e</color>
+    <color name="birthday_tag_color">#dc5a5c</color>
+    <color name="unselected_tab_color">#ab9bc4</color>
+    <color name="bluewish_grey">#E7EFF7</color>
+    <color name="order_review_bg_color">#ecf2f8</color>
+    <color name="options_unchecked_color">#c6d8e3</color>
+    <color name="notify_yellow">#FFF1BE</color>
+
+    <color name="error_notifier_light">#fdd6d6</color>
+    <color name="error_notifier_dark">#fc3e42</color>
+
+    <color name="prime_default_color">#186a39</color>
+    <color name="chat_bg_color">#ecf2f8</color>
+    <color name="chat_item_color">#c7d8e3</color>
+
+    <color name="colorPrimary">#734497</color>
+    <color name="colorPrimaryDark">#734497</color>
+    <color name="colorAccent">#FF4081</color>
+    <!--<color name="black">#000000</color>-->
+    <color name="heading_blue">#7c53a0</color>
+    <color name="toolbar_color">#663B95</color>
+    <!--<color name="white">#FFFFFF</color>
+    <color name="transparent">#00000000</color>-->
+    <color name="levelGreen">#91AF3E</color>
+    <color name="buttonBlue">#48BFEA</color>
+    <color name="subject_belt_background">#99542C88</color>
+    <color name="green">#91AF3E</color>
+    <color name="differentiate">#F6F6F6</color>
+    <color name="red">#FF0000</color>
+    <color name="tranparent">#00000000</color>
+    <color name="yellow">#FFCC02</color>
+    <color name="light_black">#222222</color>
+    <color name="light_black_gradient">#e4ebf1</color>
+    <color name="price_green">#2bc14b</color>
+
+    <color name="new_ui_grey_line">#c6d8e4</color>
+    <color name="new_ui_black">#2b2b2b</color>
+
+    <color name="switch_bg_color">#87c4ff</color>
+
+    <color name="switch_gradient_start">#d9aafe</color>
+    <color name="switch_gradient_end">#85c5ff</color>
+
+    <color name="light_purple">#EBDFFE</color>
+    <color name="light_green">#e9f9ed</color>
+</resources>
+

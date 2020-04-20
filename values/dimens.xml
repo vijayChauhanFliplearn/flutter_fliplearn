@@ -1,0 +1,141 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="nav_header_height">112dp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">10dp</dimen>
+
+    <dimen name="title_text_size">16dp</dimen>
+
+    <dimen name="txt_big">19sp</dimen>
+    <dimen name="txt_normal">16sp</dimen>
+    <dimen name="txt_feedback">10sp</dimen>
+
+    <dimen name="txt_small">14sp</dimen>
+    <dimen name="text_size_twelve">12sp</dimen>
+
+    <!-- dateTitleLayout -->
+    <!--<dimen name="dateTitlePaddingBottom">5dp</dimen>-->
+    <!-- weekLayout -->
+    <!-- weekRowLayout -->
+    <!--<dimen name="week_bottom_padding">5dp</dimen>-->
+    <!-- Day of the month -->
+    <dimen name="padding">8dp</dimen>
+
+
+    <!--New dimens-->
+    <dimen name="weekTitlePaddingTop">8dp</dimen>
+    <dimen name="weekTitlePaddingBottom">8dp</dimen>
+    <dimen name="minDayCellHeight">40dp</dimen>
+
+    <dimen name="destination_width">140dp</dimen>
+
+    <dimen name="destination_height">140dp</dimen>
+    <dimen name="button_txt_size">16dp</dimen>
+
+
+    <!-- Calender Sizes  -->
+
+    <dimen name="calender_day_text_size">10sp</dimen>
+    <dimen name="calender_week_text_size">14sp</dimen>
+    <dimen name="calender_month_text_size">16sp</dimen>
+
+    <dimen name="subject_title_text_size">17sp</dimen>
+    <dimen name="subject_sub_title_text_size">16sp</dimen>
+    <dimen name="subject_class_name_text_size">12sp</dimen>
+    <dimen name="cts_content_padding">15dp</dimen>
+    <dimen name="cts_content_title_text_size">18sp</dimen>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <!-- BeginMcq  Activity -->
+    <dimen name="instructions_text_size">20sp</dimen>
+
+    <!-- Mcq  Activity -->
+    <!-- Dialog -->
+    <dimen name="disclaimer_title">15sp</dimen>
+    <dimen name="dialog_title_text_size">15sp</dimen>
+    <dimen name="save_confirm_msg_text_size">18sp</dimen>
+    <dimen name="disclaimer_msg_text_size">12sp</dimen>
+    <dimen name="dialog_button_text_size">16sp</dimen>
+    <!-- Common Navigation bar -->
+    <dimen name="navigation_options_text_size">18sp</dimen>
+    <dimen name="text_padding">8dp</dimen>
+    <dimen name="text_size">22dp</dimen>
+    <dimen name="resource_list_margin_left">20dp</dimen>
+    <dimen name="text_size_resource_name">18dp</dimen>
+    <dimen name="small_margin_top">20dp</dimen>
+    <!-- Search Result List text Size -->
+    <dimen name="adv_search_tag_text_size">35sp</dimen>
+    <dimen name="search_filter_text_size">20sp</dimen>
+    <dimen name="search_filter_list_text_size">14sp</dimen>
+    <dimen name="bottom_green_bar_text_size">24sp</dimen>
+
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+
+    <dimen name="margin_between_items">6dp</dimen>
+    <!-- Common Navigation bar -->
+
+    <!-- TOC Activity Text size -->
+    <dimen name="subject_text_size">30sp</dimen>
+    <dimen name="chapter_text_size">25sp</dimen>
+
+    <!-- ResourceList Activity Text size -->
+    <dimen name="filter_name_text_size">17sp</dimen>
+    <dimen name="res_title_name_text_size">20sp</dimen>
+    <dimen name="res_class_name_text_size">18sp</dimen>
+    <dimen name="res_heading_name_text_size">25sp</dimen>
+    <dimen name="res_chapter_name_text_size">40sp</dimen>
+
+
+    <!-- Common REsource Toolbar -->
+
+    <!-- Common Resource Header text Size -->
+    <dimen name="res_header_res_name_text_size">25sp</dimen>
+    <dimen name="res_header_res_title_text_size">25sp</dimen>
+    <dimen name="res_header_breadcrumb_text_size">22sp</dimen>
+
+    <!-- Common Weblink Video Header text Size -->
+    <dimen name="wl_video_header_breadcrumb_text_size">16sp</dimen>
+
+    <!-- Fav Notes Search Header text Size -->
+    <dimen name="fav_notes_search_header_screen_type_text_size">22sp</dimen>
+    <dimen name="fav_notes_search_header_breadcrumb_text_size">18sp</dimen>
+
+    <!-- Search Result List text Size -->
+
+
+    <!-- Fav and notes pop-up bottom grey background color -->
+    <dimen name="res_note_name_text_size">15sp</dimen>
+
+    <dimen name="badge_text_size">10sp</dimen>
+    <dimen name="flip_bottom_grid_padding">1dp</dimen>
+    <dimen name="flip_bottom_image_item_height">90dp</dimen>
+    <dimen name="textsize_7">7sp</dimen>
+    <dimen name="textsize_8">8sp</dimen>
+    <dimen name="textsize_9">9sp</dimen>
+    <dimen name="textsize_10">10sp</dimen>
+    <dimen name="textsize_11">11sp</dimen>
+    <dimen name="textsize_12">12sp</dimen>
+    <dimen name="textsize_13">13sp</dimen>
+    <dimen name="textsize_14">14sp</dimen>
+    <dimen name="textsize_15">15sp</dimen>
+    <dimen name="textsize_16">16sp</dimen>
+    <dimen name="textsize_17">17sp</dimen>
+    <dimen name="textsize_18">18sp</dimen>
+    <dimen name="textsize_19">19sp</dimen>
+    <dimen name="textsize_20">20sp</dimen>
+    <dimen name="underline_top_spacing">8dp</dimen>
+    <dimen name="underline_bottom_spacing">6dp</dimen>
+    <dimen name="error_label_spacing">12dp</dimen>
+    <dimen name="floating_label_top_spacing">4dp</dimen>
+    <dimen name="floating_label_bottom_spacing">8dp</dimen>
+    <dimen name="floating_label_inside_spacing">12dp</dimen>
+    <dimen name="right_left_spinner_padding">8dp</dimen>
+    <dimen name="label_text_size">12sp</dimen>
+    <dimen name="min_content_height">20dp</dimen>
+
+    <integer name="grid_span_1">1</integer>
+</resources>

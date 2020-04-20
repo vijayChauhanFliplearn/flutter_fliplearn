@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="CTSBreadCrump">
+        <attr name="prevText" format="string" />
+        <attr name="selectedText" format="string" />
+    </declare-styleable>
+
+</resources>
